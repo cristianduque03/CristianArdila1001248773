@@ -1,12 +1,9 @@
 {
   "name": "proyecto-cicd",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  }
 }
